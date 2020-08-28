@@ -1,0 +1,7 @@
+// Oxygen.h
+#ifndef _OXYGEN_h
+#define _OXYGEN_h
+#define O2_pin A1
+extern bool O2_init_flag;
+float O2_value();    
+#endif
